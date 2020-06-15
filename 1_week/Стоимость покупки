@@ -1,0 +1,7 @@
+A = int(input())
+B = int(input())
+N = int(input())
+summ = ((A * 100 + B) * N)
+summA = summ // 100
+summB = summ % 100
+print(summA, summB)
