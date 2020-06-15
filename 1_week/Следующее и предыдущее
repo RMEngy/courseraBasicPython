@@ -1,0 +1,5 @@
+N = int(input())
+Nplus = N + 1
+Nminus = N - 1
+print('The next number for the number ', N, ' is ', Nplus, '.', sep="")
+print('The previous number for the number ', N, ' is ', Nminus, '.', sep="")
