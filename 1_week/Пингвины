@@ -1,0 +1,11 @@
+number = int(input())
+tux1 = '   _~_    '
+tux2 = '  (o o)   '
+tux3 = ' /  V  \  '
+tux4 = '/(  _  )\ '
+tux5 = '  ^^ ^^   '
+print(tux1 * number)
+print(tux2 * number)
+print(tux3 * number)
+print(tux4 * number)
+print(tux5 * number)
