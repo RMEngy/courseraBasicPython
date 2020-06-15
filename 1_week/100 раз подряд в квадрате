@@ -1,0 +1,4 @@
+N = input()
+N100 = N * 100
+N100Sq = int(N100)**2
+print(N100Sq)
