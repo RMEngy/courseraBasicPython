@@ -1,0 +1,4 @@
+N = int(input())
+ten = N % 100
+endTen = ten // 10
+print(endTen)
